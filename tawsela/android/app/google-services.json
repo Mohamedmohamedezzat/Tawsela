@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39077291197",
+    "project_id": "test-37587",
+    "storage_bucket": "test-37587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39077291197:android:80413d1ad6d66c399a83d4",
+        "android_client_info": {
+          "package_name": "com.egoncastle.users"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvtA58na0jahJUBfKcVGNXKn-MkF-q-_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
